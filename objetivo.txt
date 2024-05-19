@@ -1,1 +1,7 @@
 Primer commit
+
+Objetivo 1: Adquirir habilidades de programación.
+
+Objetivo 2: Habilidades de diseño.
+
+Objetivo 3: Almacenamiento de base de datos.
