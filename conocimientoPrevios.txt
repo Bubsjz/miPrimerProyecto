@@ -1,0 +1,2 @@
+- Conocimiento muy básico de CSS
+- Conocimiento muy escaso de HTML
